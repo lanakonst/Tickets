@@ -1,0 +1,20 @@
+h2 {
+    margin-top: 20px;
+}
+
+.images {
+    padding-top: 20px;
+    padding-bottom: 20px;
+    vertical-align: top;
+    background-color: rgba(25, 25, 71, 0.717);;
+}
+
+.travel {
+    display: inline-block;
+    height: 200px;
+    margin-left: 10px;
+}
+
+.travel:hover {
+    transform: scale(1.5);
+}

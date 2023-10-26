@@ -1,0 +1,42 @@
+body {
+    margin: 0;
+    padding: 0;
+    background-color: rgb(225, 137, 110);
+    height: 100%;
+    text-align: center;
+    font-family: 'Sometype Mono', sans-serif;
+    color: white;
+}
+
+.description {
+    margin-top: 100px;
+}
+
+.team {
+    margin-top: 10px;
+    background-color: rgb(19, 19, 64);
+    text-align: center;
+}
+
+.person {
+    border-radius: 100px;
+    background-color: rgba(225, 137, 110, 0.327);
+    height: 500px;
+    padding-top: 100px;
+    margin: 10px auto;
+    width: 750px;
+}
+
+.person img {
+    height: 70%;
+    width: 30%;
+    display: inline-block;
+    padding: 10px;
+    border-radius: 10px;
+    background-color: rgb(225, 137, 110);
+}
+
+.person div {
+    display: inline-block;
+    text-align: left;
+}

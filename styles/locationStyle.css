@@ -1,0 +1,44 @@
+body {
+    margin: 0;
+    padding: 0;
+    background-color: rgb(225, 137, 110);
+    height: 100%;
+    text-align: right; 
+    font-family: 'Sometype Mono', sans-serif;
+}
+
+nav {
+    height: 10%;
+    margin-bottom: 200px;
+    padding-bottom: 200px;
+}
+
+nav img {
+    height: 50px;
+    display: inline-block;
+}
+
+.cities {
+    margin: 100px 15%;
+    padding: 10px 50px;
+    text-align: center;
+    background-color: rgb(25, 25, 71);
+    color: white;
+    min-width: 600px;
+    border-radius: 25px;
+    height: 400px;
+}
+
+.cities iframe {
+    display: inline-block;
+    width: 50%;
+    height: 70%;
+}
+
+.cities label, select {
+    vertical-align: top;
+    display: inline-block;
+    width: 20%;
+    padding: 0;
+    margin: 0;
+}

@@ -1,0 +1,46 @@
+.contacts {
+    background-color: rgb(40, 40, 99);
+    margin: 100px 150px;
+    padding: 30px 10px 30px 10px;
+    height: 300px;
+    border-radius: 10px;
+    min-width: 800px;
+}
+
+.contactInfo {
+    text-align: left;
+    display: inline-block;
+    vertical-align: top;
+    margin-right: 10px;
+    opacity: 70%;
+}
+
+
+.contactForm {
+    display: inline-block;
+    text-align: left;
+    
+}
+
+.contactForm * {
+    display: block;
+    margin-bottom: 5px;
+}
+
+.contactForm [id=massage] {
+    height: 100px;
+    width: 500px;
+}
+
+.contactForm [id=email] {
+    width: 500px;
+}
+
+.valid {
+    display: none;
+}
+
+.invalid {
+    display: block;
+    color: red;
+}

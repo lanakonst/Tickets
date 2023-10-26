@@ -1,0 +1,21 @@
+.years {
+    background-color: rgb(255, 204, 188);
+    color: rgb(53, 53, 103);
+    border-radius: 10px ;
+    border: 2px solid rgb(255, 94, 58);
+    width: 500px;
+    text-align: center;
+    margin: auto;
+}
+
+h3{
+    margin-top: 30px;
+}
+.partners {
+    list-style: none;
+    margin: 20px;
+    background-color: rgb(255, 204, 188);
+    padding: 10px;
+    color: rgb(26, 26, 69);
+    border-radius: 10px;
+}

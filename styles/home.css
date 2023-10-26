@@ -1,0 +1,36 @@
+.plane {
+    margin: auto;
+    margin-top: 20px;
+}
+
+.plane ul {
+    list-style: none;
+    border: 2px solid rgb(49, 41, 117);
+    border-radius: 20%;
+    width: 250px;
+    margin: auto;
+    padding: 10px;
+}
+
+.col-1 {
+    width: 50%;
+    float: left;
+}
+
+.col-2 {
+    display: inline-block;
+    width: 50%;
+}
+
+.seat.chosen {
+    background-color: rgb(27, 27, 59);
+    border-radius: 5px;
+}
+
+.cancell {
+    border: none;
+}
+
+.confirm {
+    border: none;
+}
